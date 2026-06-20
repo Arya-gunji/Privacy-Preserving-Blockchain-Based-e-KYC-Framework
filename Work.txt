@@ -1,0 +1,16 @@
+Enabling Trust and Privacy-Preserving eKYC System Using Blockchain
+
+
+
+ IEEE Access and Transaction on Blockchain,Volume:10,Issue Date:05.May.2022
+
+
+Authority -- authorize clients and Smart Contracts
+
+Clients -- Data Owner
+ 
+IPFS -- Cloud--View all forwarded eKYC
+
+Blockchain -- Store All Details
+
+Smart contracts -- User-- Forward eKYC to IPFS
