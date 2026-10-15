@@ -145,19 +145,22 @@ These are recommended security practices; their presence in the current implemen
 
 ## 🖼️ Screenshots
 
-The repository contains image files related to login, registration, and application interfaces.
+## 🖼️ Project Screenshots
 
-To improve the presentation, organize relevant screenshots in a folder such as `screenshots/` and add them to this section:
+### 1. Login Page
+![Login Page](Login.jpg)
 
-```markdown
-### Login Page
-![Login Page](screenshots/login.png)
+### 2. Registration Page
+![Registration Page](Register.jpg)
 
-### User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)
+### 3. User Dashboard
+![User Dashboard](User.jpg)
 
-### Owner Dashboard
-![Owner Dashboard](screenshots/owner-dashboard.png)
+### 4. Owner Dashboard
+![Owner Dashboard](Owner.jpg)
+
+### 5. Admin Login
+![Admin Login](ALogin.jpg)
 ```
 
 Replace the example filenames with the actual screenshot filenames after adding them to the repository.
