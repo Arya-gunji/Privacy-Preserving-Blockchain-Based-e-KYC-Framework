@@ -189,3 +189,34 @@ No license has been specified yet. Add an appropriate open-source license if you
 ---
 
 If you find this project useful for learning about Java web applications and electronic identity verification, feel free to explore the repository.
+
+## 🏗️ System Architecture
+
+The e-KYC framework organizes identity verification through separate application modules and database connectivity.
+
+```text
+             Users / Owners
+                    |
+                    v
+          Web Application (JSP)
+                    |
+                    v
+          Authentication Modules
+                    |
+                    v
+           e-KYC Management
+                    |
+                    v
+           Database (MySQL)
+```
+
+## 🔄 Project Workflow
+
+1. **Registration:** Users or owners register through the web application.
+2. **Authentication:** Registered users log in through their respective modules.
+3. **KYC Upload:** Owners can upload e-KYC information through the available interface.
+4. **Access Permissions:** The application provides functionality related to e-KYC access permissions.
+5. **Data Management:** Application information is handled through the database connection.
+6. **Verification:** Authorized operations can be performed through the relevant application modules.
+
+> Note: This diagram represents the high-level web application workflow. Add blockchain components to the architecture only after confirming their implementation in the source code.
