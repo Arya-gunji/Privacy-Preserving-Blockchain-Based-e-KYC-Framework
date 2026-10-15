@@ -8,6 +8,23 @@ A secure and privacy-focused Electronic Know Your Customer (e-KYC) framework des
 ![HTML](https://img.shields.io/badge/HTML-Web_Development-orange)
 ![GitHub](https://img.shields.io/badge/Repository-GitHub-black)
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Key Features](#-key-features)
+- [Technologies Used](#️-technologies-used)
+- [System Modules](#-system-modules)
+- [Project Structure](#-project-structure)
+- [Installation and Setup](#️-installation-and-setup)
+- [System Architecture](#️-system-architecture)
+- [Project Workflow](#-project-workflow)
+- [Project Screenshots](#️-project-screenshots)
+- [Challenges and Solutions](#-challenges-and-solutions)
+- [Testing](#-testing)
+- [Learning Outcomes](#-learning-outcomes)
+- [Author](#-author)
+
 ## 📌 Project Overview
 
 The **Privacy-Preserving Blockchain-Based e-KYC Framework** aims to improve the security, transparency, and privacy of digital identity verification. It provides separate modules for users, owners, authorities, and servers to support identity registration, authentication, KYC document uploads, and permission-based access.
