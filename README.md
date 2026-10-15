@@ -219,4 +219,45 @@ The e-KYC framework organizes identity verification through separate application
 5. **Data Management:** Application information is handled through the database connection.
 6. **Verification:** Authorized operations can be performed through the relevant application modules.
 
+## 💡 Challenges and Solutions
+
+### Challenges
+- Managing sensitive KYC information securely.
+- Organizing separate access modules for users, owners, and authorities.
+- Connecting the Java web application to the database.
+- Providing a simple interface for identity-related operations.
+
+### Solutions
+- Designed separate authentication pages for different roles.
+- Used JSP pages to organize web application functionality.
+- Included an SQL script for database setup.
+- Structured the application into modules for easier maintenance.
+
+*These points describe project design considerations; verify each implementation detail against the source code before presenting it as a completed solution.*
+
+## 🧪 Testing
+
+The following areas can be tested to validate the application:
+
+- User and owner registration.
+- Login and authentication.
+- Database connectivity.
+- e-KYC document upload.
+- Access permission workflows.
+- Validation of user inputs and error handling.
+
+## 📚 Learning Outcomes
+
+- Understanding Java web application development.
+- Working with JSP and HTML.
+- Connecting a web application to MySQL.
+- Organizing role-based application modules.
+- Understanding privacy and security considerations in digital identity systems.
+
+## 👨‍💻 Author
+
+**Arya Gunji**
+
+- GitHub: [Arya-gunji](https://github.com/Arya-gunji)
+- Project: [Privacy-Preserving Blockchain-Based e-KYC Framework](https://github.com/Arya-gunji/Privacy-Preserving-Blockchain-Based-e-KYC-Framework)
 > Note: This diagram represents the high-level web application workflow. Add blockchain components to the architecture only after confirming their implementation in the source code.
